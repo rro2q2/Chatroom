@@ -1,0 +1,23 @@
+{
+	"host" : "localhost",
+	"port" : 16843,
+	"maxclients" : 3,
+	"users" : [
+		{
+			"userid" : "Tom",
+			"password" : "Tom11"
+		},
+		{
+			"userid" : "David",
+			"password" : "David22"
+		},
+		{
+			"userid" : "Beth",
+			"password" : "Beth33"
+		},
+		{
+			"userid" : "John",
+			"password" : "John44"
+		}
+	]
+}
