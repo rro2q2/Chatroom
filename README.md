@@ -10,6 +10,7 @@ This project entails a chatroom in which as multiple client and a server that us
 
 ## Starting Up Chatroom Server
 python3 chatroom.py --server --config <PATH_TO_CONFIG>
+i.e. python3 chatroom.py --server --config ./config.json
 
 ## Starting Up Chatroom Client
 python3 chatroom.py
